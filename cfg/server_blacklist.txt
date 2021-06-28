@@ -1,0 +1,9 @@
+"serverblacklist"
+{
+	"server"
+	{
+		"name"		"The Garage Band"
+		"date"		"1560126608"
+		"addr"		"74.91.125.140:27015"
+	}
+}
